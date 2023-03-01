@@ -1,0 +1,27 @@
+OOPS concept
+springboot
+advanced java 
+annotations, hibernate
+constructor & Overloading
+Integration and regression for testing(Tester)
+project defect and tool used
+Differences
+
+25 February 2023 Zoom Meeting (Alumni Meet)
+
+Core java concepts must clear. specially Collections, Strea API's, Oops Concept, Encapsulation (getter and setter concept- Example like ATM machine)
+Hibernate , Spring boot, Spring secirity
+Serialization and Deserialization
+Class loader work system.
+Heirarchy of collections , Linked listHashmap - Internal working
+Null pointer Exception 
+
+Advance java:-
+How JDBC connect
+Servlet
+JSP
+Spring boot
+SQL (querries)
+What is the version is using in your project(1.8)
+Java 8 Features
+
